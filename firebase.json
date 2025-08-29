@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "copermate.com",
+    "public": "Copermate",
     "ignore": [
       "firebase.json",
       "**/.*",
