@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "copermate-site"
-  }
+    "default": "copermate-site",
+    "copermate": "copermate-site"
+  },
+  "targets": {},
+  "etags": {}
 }
